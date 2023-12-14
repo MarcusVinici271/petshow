@@ -1,0 +1,16 @@
+.area-posts {
+  width: 250px;
+  height: 100px;
+  resize: none; 
+  margin: 5px;
+  border: 2px solid #5fa8f2;
+}
+.botaoPostar{
+  color: #ffffff;
+  background-color: #5fa8f2;
+  border: none;
+  padding:5px;
+  margin: 2px;
+  font-style: italic;
+  cursor: pointer;
+}

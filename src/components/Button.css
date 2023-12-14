@@ -1,0 +1,15 @@
+.botao{
+  width:100px;
+  padding:5px;
+  margin: 5px;
+  color:#ffffff;
+  background-color:#2196f3;
+  font-family: 'Roboto', sans-serif;
+  border: none;
+  box-shadow: 0 2px 4px #cac4c4;
+}
+
+.botao:hover{
+  background-color:#0d47a1;
+  box-shadow: 0 4px 8px #cac4c4;
+}

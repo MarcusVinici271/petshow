@@ -1,0 +1,82 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.tudo{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  box-shadow: 5px 5px 20px #5fa8f2;
+  border-radius: 15px;
+  padding: 15px;
+
+
+}
+h2{
+  color: deepskyblue;
+}
+
+.amigo{
+  width:100px;
+  height: 70px;
+  margin-top: 20px;
+  border: 5px solid #5fa8f2;
+  border-radius: 15px;
+}
+.nomes{
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.fotofeed{
+  width: 300px;
+  border: 5px solid #5fa8f2;
+  border-radius: 15px;
+  margin-top: 20px;
+}
+.icone{
+  width:20px;
+  padding: 5px;
+  cursor: pointer;
+
+}
+
+.noticia{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  margin: 8px;
+
+}
+
+.autor{
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.detalhes{
+  width: 300px;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  margin-bottom: 10px;
+  justify-content: space-evenly;
+}
+
+.comentario{
+  width: 300px;
+  border: solid 1px deepskyblue;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 10px;
+  text-align: left;
+
+
